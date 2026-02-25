@@ -101,12 +101,17 @@ Through this project, I strengthened my ability to:
 
 ## 📷 Dashboard Preview
 
+### Performance Overview
+![Overview Dashboard](images/dashboard_overview.png)
 
-Recommended screenshots:
-- Executive KPI Overview
-- Risk vs Return Quadrant Analysis
-- Monthly Heatmap Analysis
-- Insights Page
+### Risk vs Return Analysis
+![Risk Return Dashboard](images/risk_return_analysis.png)
+
+### Monthly Performance Heatmap
+![Heatmap](images/monthly_heatmap.png)
+
+### Key Insights & Recommendations
+![Insights](images/insights_page.png)
 
 ---
 
