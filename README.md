@@ -102,16 +102,16 @@ Through this project, I strengthened my ability to:
 ## 📷 Dashboard Preview
 
 ### Performance Overview
-![Overview Dashboard](images/dashboard_overview.png)
+[![Overview Dashboard](images/dashboard_overview.png)](https://github.com/vijaym23insights/ETF-Risk-Return-Performance-Analytics-Dashboard-PowerBI/blob/59d7e1e7ca2499217e5ba3e3c9a5b5447a3af11e/Performance%20Overview.png)
 
 ### Risk vs Return Analysis
-![Risk Return Dashboard](images/risk_return_analysis.png)
+[![Risk Return Dashboard](images/risk_return_analysis.png)](https://github.com/vijaym23insights/ETF-Risk-Return-Performance-Analytics-Dashboard-PowerBI/blob/59d7e1e7ca2499217e5ba3e3c9a5b5447a3af11e/Risk%20vs%20Return%20Analysis.png)
 
 ### Monthly Performance Heatmap
-![Heatmap](images/monthly_heatmap.png)
+[![Heatmap](images/monthly_heatmap.png)](https://github.com/vijaym23insights/ETF-Risk-Return-Performance-Analytics-Dashboard-PowerBI/blob/59d7e1e7ca2499217e5ba3e3c9a5b5447a3af11e/Monthly%20Performance%20Heatmap.png)
 
 ### Key Insights & Recommendations
-![Insights](images/insights_page.png)
+[![Insights](images/insights_page.png)](https://github.com/vijaym23insights/ETF-Risk-Return-Performance-Analytics-Dashboard-PowerBI/blob/59d7e1e7ca2499217e5ba3e3c9a5b5447a3af11e/Key%20Insights%20%26%20Recommendations.png)
 
 ---
 
